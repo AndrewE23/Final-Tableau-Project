@@ -6,7 +6,7 @@ While I can summarise my goal as "use Tableau to examine different statistics on
 Additional questions and answers follow later.
 
 ## Process
-### Step 1: Data Exploration
+### Data Exploration
 The short of this is that I experimented with different plot types and even opened the dataset in Excel to gain a better understanding of what I had to work with. We have regions as well as countries, years from 1990 to 2013, as well as various statistics for incidence, prevalence, and mortality rates of TB across these dimensions.
 
 In short, I needed to know what data I had, what data types they were, and whether I would have to make any adjustments; I did not.
